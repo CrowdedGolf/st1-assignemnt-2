@@ -1,0 +1,3 @@
+Classes were roughly based on what I had previously written in the State/Behavior section. The main changes I made from that was adding more detail to the names to clarify which details are being updated for example instead of just putting update.
+
+I chose to use a many to many relationship between patients and practitioners as a patient could have visits with 0 to many practitioners and the practitioner could have 0 to many patients.
