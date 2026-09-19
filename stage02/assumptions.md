@@ -1,0 +1,3 @@
+-   I assumed that the receptionist will be managing the bookings.
+-   I assumed that receptionists would also add new patients to the system.
+-   I have assumed that someone will be a system administrator and would like the system to be easy to manage.
